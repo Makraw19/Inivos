@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{F02ED3F3-9AE2-46A8-B321-67F923041182}">
+	<children>
+		<child name="Inivos Assignment" key="{41D9F447-65FB-437B-B551-8BC593C1DD4A}" path="Inivos Assignment\Inivos Assignment.mds" />
+	</children>
+	<testItems key="{4AD13CE4-0E1D-424B-925F-0C6381AD3F3E}">
+		<children>
+			<testItem key="{41D9F447-65FB-437B-B551-8BC593C1DD4A}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{1E4C6643-1D1A-4C69-B5C7-7148D9BB364D}" />
+	<analysis key="{D7752237-DFBD-4483-9836-D73DCEAD4EA2}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

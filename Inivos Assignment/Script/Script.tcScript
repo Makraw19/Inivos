@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="Test_Case_1" key="{8B252AF2-834A-4E6A-91CE-81EA1081B9C8}" path="Test_Case_1.js" />
+		<child name="Test_Case_2" key="{D389574C-B71D-4439-B4A9-B279675813CC}" path="Test_Case_2.js" />
+		<child name="Test_Case_3" key="{D77685BD-E06F-4BF8-9DD2-811EC4766042}" path="Test_Case_3.js" />
+		<child name="Data" key="{9E1CC707-2144-4C68-A4DB-A3503FD6A238}" path="Data.js" />
+		<child name="CommonSteps" key="{50414B55-6615-46DC-8887-F3E2242F9767}" path="CommonSteps.js" />
+	</children>
+</Root>

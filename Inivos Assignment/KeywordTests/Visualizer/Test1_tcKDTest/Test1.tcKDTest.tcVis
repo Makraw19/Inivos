@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{3F43B091-3E57-40BD-BCB1-967F4D705281}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45191.7563657407" objectName="Aliases.browser.BrowserWindow" objectLeft="-9" objectTop="-9" objectRight="1929" objectBottom="1039" clickPointX="869" clickPointY="6" imageFileName="tcvi596579796163200.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45191.7564351852" objectName="Aliases.browser.pageHollandBarrettUkSLeadingHeal.navMyAccount.linkReward.textnodeRewards" objectLeft="1484" objectTop="243" objectRight="1547" objectBottom="260" clickPointX="1517" clickPointY="249" imageFileName="tcvi596585375163203.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45191.7565509259" objectName="Aliases.browser.pageHollandBarrettUkSLeadingHeal.linkStores.panelStores" objectLeft="1417" objectTop="243" objectRight="1464" objectBottom="260" clickPointX="1431" clickPointY="248" imageFileName="tcvi596595515163205.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="45191.7566087963" objectName="Aliases.browser.pageWwwHollandandbarrettComStore.navMyAccount.linkRewards.textnodeRewards" objectLeft="1484" objectTop="243" objectRight="1547" objectBottom="260" clickPointX="1514" clickPointY="247" imageFileName="tcvi596601078163208.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
